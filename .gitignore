@@ -1,0 +1,10 @@
+# Source materials (private)
+hidden_sources/
+
+# Original unoptimized images
+assets/20260101_141843.jpg
+assets/20260104_111545.jpg
+assets/smart_spoon.jpeg
+
+# OS files
+.DS_Store
